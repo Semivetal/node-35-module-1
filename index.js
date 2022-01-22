@@ -1,4 +1,3 @@
-/* 
 const http = require('http');
 const fs = require('fs').promises;
 
@@ -20,7 +19,7 @@ server.listen(PORT, (err) => {
     }
     console.log(`Server works at port ${PORT}`);
 }); 
-*/
+
 
 /* // const fs = require('fs');
 const fs = require('fs').promises;
